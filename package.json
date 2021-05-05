@@ -8,8 +8,22 @@
     "start": "next start"
   },
   "dependencies": {
+    "@emotion/react": "^11.1.5",
+    "@emotion/styled": "^11.3.0",
+    "@zeit/next-css": "^1.0.1",
     "next": "10.2.0",
     "react": "17.0.2",
     "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.13.16",
+    "@babel/core": "^7.14.0",
+    "@babel/preset-react": "^7.13.13",
+    "@emotion/babel-plugin": "^11.3.0",
+    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.13",
+    "tailwindcss": "^2.1.2",
+    "xwind": "^0.8.0"
   }
 }
