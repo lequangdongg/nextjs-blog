@@ -1,0 +1,15 @@
+{
+  "title": "Next.js Starter Blog",
+  "author": "Dong Le",
+  "headerTitle": "TailwindBlog",
+  "description": "A blog created with Next.js and Tailwind.css",
+  "language": "en-us",
+  "siteUrl": "https://tailwind-nextjs-starter-blog.vercel.app",
+  "siteRepo": "https://github.com/lequangdongg",
+  "image": "/static/images/avatar.png",
+  "socialBanner": "/static/images/twitter-card.png",
+  "email": "lequangdongg@gmail.com",
+  "github": "https://github.com/lequangdongg",
+  "facebook": "https://facebook.com/dong.lequang.90",
+  "locale": "vi"
+}

@@ -1,9 +1,0 @@
-{
-  "compilierOptions": {
-    "baseUrl": ".",
-    "paths": {
-      "@/components/*": ["components/"],
-      "@/lib/*": ["lib/"]
-    }
-  }
-}
