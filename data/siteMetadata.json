@@ -4,7 +4,7 @@
   "headerTitle": "TailwindBlog",
   "description": "A blog created with Next.js and Tailwind.css",
   "language": "en-us",
-  "siteUrl": "http://localhost:3000",
+  "siteUrl": "https://blog-detail.vercel.app",
   "siteRepo": "https://github.com/lequangdongg",
   "image": "/static/images/avatar.png",
   "socialBanner": "/static/images/twitter-card.png",
